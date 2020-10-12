@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[简体中文](./README.md) | [English](./README_EN.md) 联系方式：qq:1051633356,微信：taiji158
+[简体中文](./README.md) | [English](./README_EN.md) 联系方式：qq:774428957,微信：taiji158
 
 ## 介绍
 
@@ -111,7 +111,7 @@ Back-end api
 </p>
 
 ## 系统分析设计详解 帮你讲透 整个系统
-[地址](http://note.youdao.com/noteshare?id=189426b4aa392176cfe56e839160824e) 帮你讲透 整个系统 联系方式：qq:1051633356,微信：taiji158
+[地址](http://note.youdao.com/noteshare?id=189426b4aa392176cfe56e839160824e) 帮你讲透 整个系统 联系方式：qq:774428957,微信：taiji158
 
 ## 安装文档
 
