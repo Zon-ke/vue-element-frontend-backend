@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[简体中文](./README.md) | [English](./README_EN.md) 联系方式：qq:774428957,微信：taiji158
+[简体中文](./README.md) | [English](./README_EN.md) 联系方式：qq: 774428957,微信：taiji158
 
 ## 介绍
 
