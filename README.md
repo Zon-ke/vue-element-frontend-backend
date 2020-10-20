@@ -115,6 +115,10 @@ Back-end api
 
 ## 安装文档
 
-
 [中文安装文档](./INSTALL_CN.md)
 [English Install Docs](./INSTALL_EN.md)
+
+交流：
+<p align="center">
+  <img width="900" src="./webchart.png">
+</p>
