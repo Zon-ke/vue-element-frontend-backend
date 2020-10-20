@@ -14,7 +14,7 @@
   </a>
 </p>
 
-[简体中文](./README.md) | [English](./README_EN.md) 联系方式：qq: 774428957,微信:微信二维码：
+[简体中文](./README.md) | [English](./README_EN.md) 联系方式：qq: 774428957,微信二维码:
 <p align="center">
   <img width="100" height="100" src="./webchart.png">
 </p>
