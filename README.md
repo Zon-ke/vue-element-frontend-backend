@@ -120,5 +120,5 @@ Back-end api
 
 交流：
 <p align="center">
-  <img width="900" src="./webchart.png">
+  <img width="150" height="150" src="./webchart.png">
 </p>
