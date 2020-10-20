@@ -14,7 +14,11 @@
   </a>
 </p>
 
-[简体中文](./README.md) | [English](./README_EN.md) 联系方式：qq: 774428957,微信：taiji158
+[简体中文](./README.md) | [English](./README_EN.md) 联系方式：qq: 774428957,微信:微信二维码：
+<p align="center">
+  <img width="100" height="100" src="./webchart.png">
+</p>
+
 
 ## 介绍
 
@@ -117,8 +121,3 @@ Back-end api
 
 [中文安装文档](./INSTALL_CN.md)
 [English Install Docs](./INSTALL_EN.md)
-
-交流：
-<p align="center">
-  <img width="150" height="150" src="./webchart.png">
-</p>
