@@ -6,7 +6,7 @@
 open_galaxy项目请查看 http://www.bdkyr.com/open_galaxy/cn/
 
 ##作者
- 老僧(QQ:1572665580),飞龙(hhr66@qq.com)
+ Jack(QQ:774428957)
 
 ## 环境
 
